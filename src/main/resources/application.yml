@@ -1,4 +1,7 @@
 management:
+  server:
+    port: 8080
+
   info:
     java:
       enabled: true
